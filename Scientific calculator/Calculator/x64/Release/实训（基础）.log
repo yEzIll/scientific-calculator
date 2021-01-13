@@ -1,0 +1,51 @@
+﻿  basis.cpp
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(64,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(105,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(128,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(151,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(169,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(180,34): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(243,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(373,35): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(384,35): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+  change_type.cpp
+C:\Users\win\source\资源\项目\科学计算器\Calculator\change_type.cpp(62,71): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\change_type.cpp(129,71): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\change_type.cpp(260,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  complex.cpp
+  equation.cpp
+  e_function.cpp
+  e_instruction.cpp
+  main.cpp
+  file.cpp
+C:\Users\win\source\资源\项目\科学计算器\Calculator\file.cpp(4,27): warning C4305: “初始化”: 从“__int64”到“int”截断
+C:\Users\win\source\资源\项目\科学计算器\Calculator\file.cpp(4,13): warning C4309: “初始化”: 截断常量值
+  matrix.cpp
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(481,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(532,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(571,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(614,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(651,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(668,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(691,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(723,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(745,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(774,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(808,40): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(880,6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(1174,7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(1004,7): warning C4101: “n”: 未引用的局部变量
+  setting.cpp
+  sta_run.cpp
+  sta_func.cpp
+  storage.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\win\source\资源\项目\科学计算器\Calculator\equation.cpp(79): warning C4715: “have_solution”: 不是所有的控件路径都返回值
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(963): warning C4715: “get_mat”: 不是所有的控件路径都返回值
+C:\Users\win\source\资源\项目\科学计算器\Calculator\equation.cpp(54): warning C4715: “enter_equation”: 不是所有的控件路径都返回值
+C:\Users\win\source\资源\项目\科学计算器\Calculator\matrix.cpp(236): warning C4715: “pri_mat”: 不是所有的控件路径都返回值
+C:\Users\win\source\资源\项目\科学计算器\Calculator\basis.cpp(1286): warning C4715: “Calculate::pri”: 不是所有的控件路径都返回值
+  All 747 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  实训（基础）.vcxproj -> C:\Users\win\source\资源\项目\科学计算器\Calculator\x64\Release\实训（基础）.exe
